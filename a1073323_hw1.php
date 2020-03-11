@@ -65,10 +65,8 @@
 	<span style="font-weight:bold;">是否全程參與營隊？</span><br>
 		<input type=radio name="full_join" value="y">是
 		<input type=radio name="full_join" value="n">否<br>
-	<span style="font-weight:bold;">自我介紹及營隊期許:</span>
-		<input type="text" name="introduction"><br>
-	<span style="font-weight:bold;">備註:</span>
-		<input type="text" name="note">
+	<span style="font-weight:bold;">自我介紹及營隊期許:</span><br>
+		<textarea rows = "8" cols = "50" name = "introduction"> </textarea><br>
 	</p>
 
 	<p>
